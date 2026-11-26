@@ -34,7 +34,7 @@ namespace AutoszervizKezelo
         public override string ToString()
         {
             string allapot = "";
-            if (Garancialis = true) { allapot = "Garancialis"; }
+            if (Garancialis == true) { allapot = "Garancialis"; }
             else { allapot = "Fizetős"; }
             return $"{UgyfelNev} ({Kategoria}): {Munkaora} óra, alkatrész: {AlkatreszAr} Ft [{allapot}] - Fizetendő: {FizetendoOsszeg()} Ft";
         }
