@@ -1,0 +1,8 @@
+UgyfelNev;Kategoria;Munkaora;AlkatreszAr;Garancialis
+Kovács Péter;MOTOR;4;45000;false
+Nagy Anna;FEK;2;28000;true
+Szabó Gábor;FUTOMU;5;62000;false
+Tóth Dóra;MOTOR;3;19000;true
+Horváth Bence;FEK;1;12000;false
+Varga Eszter;FUTOMU;6;85000;false
+Molnár Tamás;MOTOR;2;15000;false
